@@ -1,0 +1,9 @@
+57aad61f12e2b2ce21df93d0: off today (not paid)
+
+575132d18f7fdfe44100dc41: holiday
+
+57c813b8df6989d221d60997: school
+
+5937c9a1627d8795686e5c43: special holiday
+
+669667fb4f1dbb57d645eccf: hybrid work
