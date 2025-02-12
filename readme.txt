@@ -13,3 +13,10 @@ reasonId: this is a required field. If you want to add or create a different use
 I have no use for them but added them as they could be useful for something else.
 
 logging data can actually be commented out, this was for debugging purposes when everything was run on local with terminal and VSC, I was just too lazy to remove it.
+
+
+I managed to be even more lazy:
+- create mjs file and save it anywhere on your system
+- rework the script to take the apiKey and ID from github secrets (I'm not saying you should hardcode your credentials to the mjs file, but you could)
+- create an alias in your .zshrc file, e.g. "alias start-remote='cd ~/yourdirectory && node yourscriptsname.mjs'
+- run terminal and run 'start-remote'
