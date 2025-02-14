@@ -17,7 +17,7 @@ logging data can actually be commented out, this was for debugging purposes when
 
 I managed to be even more lazy:
 - create mjs file and save it anywhere on your system
-- rework the script to take the apiKey and ID from github secrets (I'm not saying you should hardcode your credentials to the mjs file, but you could)
+- rework the script to take the apiKey and ID instead of github secrets (I'm not saying you should hardcode your credentials to the mjs file, but you could)
 - create an alias in your .zshrc file, e.g. "alias start-remote='cd ~/yourdirectory && node yourscriptsname.mjs'
 - run terminal and run 'start-remote'
 
